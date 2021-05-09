@@ -1,9 +1,16 @@
 ### Hi there 👋
+ ### May 2020 Computer Science Graduate, University at Albany.
+ ### Former Frontend Engineer Intern @  [Smart Twigs](https://www.smarttwigs.com/)
+
+
+-  I’m currently working on a plant tracker web app.
+-  I’m currently learning Redux and TypeScript.
+-  I’m looking for frontend development opportunities.
+-  Feel free to contribute to my [Interview Questions Repo](https://github.com/sollazzo08/my-interview-questions).
 
 <!--
 **sollazzo08/sollazzo08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
