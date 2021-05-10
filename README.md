@@ -3,7 +3,7 @@
  ### Former Frontend Engineer Intern @  [Smart Twigs](https://www.smarttwigs.com/)
 
 
--  I’m currently working on a plant tracker web app.
+-  I’m currently working on a plant tracker mobile app in react native.
 -  I’m currently learning Redux and TypeScript.
 -  I’m looking for frontend development opportunities.
 -  Feel free to contribute to my [Interview Questions Repo](https://github.com/sollazzo08/my-interview-questions).
@@ -12,7 +12,7 @@
 **sollazzo08/sollazzo08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
-- 🔭 I’m currently working on ...
+- 🔭 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
