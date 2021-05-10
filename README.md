@@ -1,3 +1,4 @@
+ ### Hello there 👋
  ### May 2020 Computer Science Graduate, University at Albany.
  ### Former Frontend Engineer Intern @  [Smart Twigs](https://www.smarttwigs.com/)
 
