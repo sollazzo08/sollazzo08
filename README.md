@@ -1,8 +1,6 @@
- 
-<span>
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acomanzo&layout=compact&theme=shades-of-purple" />
-</span>
 
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sollazzo08&langs_count=5&theme=graywhite" />
+  
  ### Hello there 👋
  ### May 2020 Computer Science Graduate, University at Albany.
  ### Former Frontend Engineer Intern @  [Smart Twigs](https://www.smarttwigs.com/)
