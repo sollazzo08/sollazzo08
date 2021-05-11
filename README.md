@@ -1,5 +1,5 @@
 
-  <img align="right" height="270px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sollazzo08&layout=default&theme=calm" />
+  <img align="right" height="270px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sollazzo08&layout=default&theme=nord" />
   
  ### Hello there 👋
  ### May 2020 Computer Science Graduate, University at Albany.
