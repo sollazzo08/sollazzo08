@@ -1,3 +1,8 @@
+ 
+<span>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acomanzo&layout=compact&theme=shades-of-purple" />
+</span>
+
  ### Hello there 👋
  ### May 2020 Computer Science Graduate, University at Albany.
  ### Former Frontend Engineer Intern @  [Smart Twigs](https://www.smarttwigs.com/)
@@ -8,16 +13,3 @@
 -  I’m looking for frontend development opportunities.
 -  Feel free to contribute to my [Interview Questions Repo](https://github.com/sollazzo08/my-interview-questions).
 
-<!--
-**sollazzo08/sollazzo08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-- 🔭 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
