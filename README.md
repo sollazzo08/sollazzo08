@@ -3,7 +3,7 @@
  ### Former Frontend Engineer Intern @  [Smart Twigs](https://www.smarttwigs.com/)
 
 
--  I’m currently working on a plant tracker mobile app in react native.
+-  I’m currently working on a plant tracker web application.
 -  I’m currently learning Redux and TypeScript.
 -  I’m looking for frontend development opportunities.
 -  Feel free to contribute to my [Interview Questions Repo](https://github.com/sollazzo08/my-interview-questions).
