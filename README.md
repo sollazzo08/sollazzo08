@@ -1,5 +1,5 @@
-
-  <img align="right" height="260px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sollazzo08&layout=default&theme=nord" />
+ <img align="right" height="260px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sollazzo08&layout=default&theme=nord" />
+  
  ### Hello there 👋
  ### React Native Intern @ [Gesture](https://www.yourgesture.com/)
  ### Former Frontend Engineer Intern @  [Smart Twigs](https://www.smarttwigs.com/)
