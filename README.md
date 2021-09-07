@@ -2,7 +2,7 @@
   
  ### Hello there 👋
  ### React Native Developer @ [Gesture](https://www.yourgesture.com/)
- ### Former Frontend Engineer Intern @  [Smart Twigs](https://www.smarttwigs.com/)
+ ### Former Frontend Engineer  @  [Smart Twigs](https://www.smarttwigs.com/)
  ### May 2020 Computer Science Graduate, University at Albany.
 
 
