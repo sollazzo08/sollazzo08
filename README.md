@@ -9,5 +9,5 @@
 
 -  I’m currently learning Redux and TypeScript.
 -  **⚠️  I’m looking for future frontend development opportunities.  ⚠️**
--  Feel free to contribute to my [Interview Questions Repo](https://github.com/sollazzo08/my-interview-questions).
+
 
