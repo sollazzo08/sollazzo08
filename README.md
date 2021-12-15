@@ -3,7 +3,7 @@
  ### Hello there 👋
  ### Technical Analyst @[Avionos](https://www.avionos.com/)
  ### Former React Native Developer @ [Gesture](https://www.yourgesture.com/)
- ### Former FullStack Engineer  @  [Smart Twigs](https://www.smarttwigs.com/)
+ ### Former Full Stack Engineer @  [Smart Twigs](https://www.smarttwigs.com/)
  ### May 2020 Computer Science Graduate, University at Albany.
 
 
