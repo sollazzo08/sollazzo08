@@ -7,7 +7,7 @@
  ### May 2020 Computer Science Graduate, University at Albany.
 
 
--  I’m currently leanring Salesforce
+-  I’m currently learning Salesforce
 
 
 
